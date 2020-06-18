@@ -26,19 +26,18 @@ Para mas imformacion, visitar http://webglstudio.org
 
 ![Interface](press/images/interface.jpg "Interface")
 
-Features missing:
-* Mesh editing, you cannot select faces and move them
-* Support for FBX, it has some sort of support but not fully functional
-* Physics
+Características que faltan:
+* Edición de malla, no puede seleccionar caras y moverlas
+* Soporte para FBX, tiene algún tipo de soporte pero no completamente funcional
+* Física
 
-
-Installing
+Instalando
 ----------
 
-To install WebGLStudio.js, copy the editor files to your server, then install [LiteFileSystem.js](https://github.com/jagenjo/litefilesystem.js) into a `fileserver/` folder within the `editor/` directory. 
-LiteFileSystem is a library that handles remote file storage. For more information, see the `/INSTALL.md` file and the [LiteFileSystem.js](https://github.com/jagenjo/litefilesystem.js) documentation.
+Para instalar WebGLStudio.js, copie los archivos del editor en su servidor, luego instale [LiteFileSystem.js] (https://github.com/jagenjo/litefilesystem.js) en la carpeta `fileserver/` dentro del directorio `editor/`.
+LiteFileSystem es una biblioteca que maneja el almacenamiento remoto de archivos. Para obtener más información, consulte el archivo `/INSTALL.md` y la documentación [LiteFileSystem.js] (https://github.com/jagenjo/litefilesystem.js).
 
-Feedback
+Retroalimentación
 --------
 
-Send all feedback to javi.agenjo@gmail.com
+Envíe todos los comentarios a javi.agenjo@gmail.com
