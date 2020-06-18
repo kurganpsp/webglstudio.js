@@ -4,7 +4,8 @@
 
 # WebGLStudio.js
 
-WebGLStudio.js is an open-source, browser-based 3D graphics suite. You can edit scenes and materials, design effects and shaders, code behaviours, and share your work - all within a browser using standard web technologies.
+WebGLStudio.js es un conjunto herramientas de gráficos 3D, de código abierto, basado en navegador. Puede editar escenas y materiales, diseñar efectos y sombreadores, codificar comportamientos y compartir su trabajo, todo dentro de un navegador utilizando tecnologías web estándar.
+
 
 Some important WebGLStudio.js features:
 
