@@ -7,16 +7,22 @@
 WebGLStudio.js es un conjunto herramientas de gráficos 3D, de código abierto, basado en navegador. Puede editar escenas y materiales, diseñar efectos y sombreadores, codificar comportamientos y compartir su trabajo, todo dentro de un navegador utilizando tecnologías web estándar.
 
 
-Some important WebGLStudio.js features:
+Algunas características importantes de WebGLStudio.js:
 
- * A full 3D graphics engine ([LiteScene.js](https://github.com/jagenjo/litescene.js)) that supports multiple lights, shadowmaps, realtime reflections, custom materials, postFX, skinning, animation, and much more.
+ * Un motor de gráficos 3D completo ([LiteScene.js] (https://github.com/jagenjo/litescene.js)) que admite múltiples luces, mapas de sombras, reflejos en tiempo real, materiales personalizados, postFX, skinning, animación y mucho más .
+ 
  * An easily extended, component-based system for controlling the rendering pipeline and interaction event hooks 
- * An easy to use, what you see is what you get (WYSIWYG) editor that provides a single interface for all coding, graph compositing and timeline features.
- * A graph editor for controlling behaviours, shaders and post-processing effects, using [LiteGraph.js](https://github.com/jagenjo/litegraph.js).
- * Supports the [LiteFileSystem.js](https://github.com/jagenjo/litefilesystem.js), a virtual file system that allows drag-and-drop storage of resources on the web, with configurable quotas, users and shared folders.
- * Export and share your work by sending a single link.
+ 
+ * Fácil de usar, Lo que ve es lo que tienes (WYSIWYG) un editor que proporciona una interfaz única para todas las funciones de codificación, composición gráfica y línea de tiempo.
 
-For more information, visit http://webglstudio.org
+ * Un editor de gráficos para controlar comportamientos, sombreadores y efectos de procesamiento posterior, utilizando [LiteGraph.js] (https://github.com/jagenjo/litegraph.js).
+
+ * Admite [LiteFileSystem.js] (https://github.com/jagenjo/litefilesystem.js), un sistema de archivos virtual que permite el almacenamiento de recursos en la web mediante arrastrar y 
+ soltar, con cuotas configurables, usuarios y carpetas compartidas .
+
+ * Exporta y comparte tu trabajo enviando un solo enlace.
+
+Para mas imformacion, visitar http://webglstudio.org
 
 ![Interface](press/images/interface.jpg "Interface")
 
